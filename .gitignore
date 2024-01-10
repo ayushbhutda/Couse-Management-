@@ -1,0 +1,16 @@
+db.sqlite3
+**.pyc
+static/*
+media/*
+otisweb/static/answersheets/*.aux
+otisweb/static/answersheets/*.fls
+otisweb/static/answersheets/*.fdb_latexmk
+otisweb/static/answersheets/*.log
+otisweb/static/answersheets/*.pdf
+.env
+.venv
+evanchen-cc-*.json
+htmlcov/*
+.coverage
+.vscode/
+.ruff_cache/
